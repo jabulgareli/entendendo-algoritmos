@@ -1,2 +1,2 @@
 # entendendo-algoritmos
-Implementação em C# dos algorítmos e estruturas de dados do livro "Entendendo Algoritmos"
+Repositório com a implementação em C# dos algorítmos e estruturas de dados do livro "Entendendo Algoritmos".
